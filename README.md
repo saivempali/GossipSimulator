@@ -1,2 +1,2 @@
 # GossipSimulator
-Implemented Gossip and Push-sum protocols in scala.
+Implemented Gossip and Push-sum protocols in scala using akka actors.
